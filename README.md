@@ -1,2 +1,2 @@
-# Calculator
+# Paarikalak-(Calculator)
 Calculator Project
